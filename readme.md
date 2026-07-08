@@ -1,5 +1,5 @@
 # The best github repo out there
-this is the readme
+This is the readme
 The best ways are :
 - Eat
 - sleep
@@ -7,3 +7,4 @@ The best ways are :
 - Repeat
 
 Thank You!
+
